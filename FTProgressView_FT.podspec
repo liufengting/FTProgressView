@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 	
-  s.name         = "FTProgressView"
+  s.name         = "FTProgressView_FT"
   s.version      = "0.0.1"
   s.summary      = "FTProgressView is a subclass of UIView, which shows circle progress or pie progress."
   s.description  = <<-DESC
