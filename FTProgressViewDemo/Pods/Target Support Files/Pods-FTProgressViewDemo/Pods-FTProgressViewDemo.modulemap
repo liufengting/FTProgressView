@@ -1,0 +1,6 @@
+framework module Pods_FTProgressViewDemo {
+  umbrella header "Pods-FTProgressViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

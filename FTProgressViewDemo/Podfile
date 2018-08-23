@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+
+target 'FTProgressViewDemo' do
+
+  use_frameworks!
+
+  pod 'FTProgressView', :path => '../'
+
+end

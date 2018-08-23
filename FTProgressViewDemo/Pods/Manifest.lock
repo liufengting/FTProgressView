@@ -1,0 +1,16 @@
+PODS:
+  - FTProgressView (0.0.1)
+
+DEPENDENCIES:
+  - FTProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  FTProgressView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FTProgressView: c44f20d97907c800bdcd8c4a84cc80ecb51ee1e0
+
+PODFILE CHECKSUM: 5fd961f27ba816c44a4e42090fc9c3dfadc77532
+
+COCOAPODS: 1.5.3

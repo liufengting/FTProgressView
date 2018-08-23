@@ -1,0 +1,6 @@
+framework module FTProgressView {
+  umbrella header "FTProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}
