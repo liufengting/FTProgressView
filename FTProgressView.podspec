@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
 	
   s.name         = "FTProgressView"
   s.version      = "0.0.1"
-  s.summary      = "A short summary of FTProgressView."
+  s.summary      = "FTProgressView is a subclass of UIView, which shows circle progress or pie progress."
   s.description  = <<-DESC
-  A short description of FTProgressView.
+  FTProgressView is a subclass of UIView, which shows circle progress or pie progress. Feel free to run the demo and use it in your own projects.
                    DESC
   s.homepage     = "https://github.com/liufengting/FTProgressView"
   s.license      = { :type => "MIT", :file => "LICENSE" }
